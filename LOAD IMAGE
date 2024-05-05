@@ -1,0 +1,4 @@
+Import cv2 
+img=cv2. imread(“.venv/include/image.jpg”)
+Cv2.inshow(“output”,img)
+Cv2.waitkey(0)
